@@ -1,5 +1,7 @@
 # OBuildFactory
 
+Fork from https://github.com/hgomez/obuildfactory.git
+
 [![Join the chat at https://gitter.im/hgomez/obuildfactory](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hgomez/obuildfactory?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![OBuildFactory Logo](https://raw.github.com/hgomez/obuildfactory/master/OBuildFactory-Logo.png)
